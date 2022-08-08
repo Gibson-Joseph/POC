@@ -1,0 +1,88 @@
+.mainContent {
+  max-width: 460px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.NavContainer1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #1f1d26;
+}
+
+.NavContainer2 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: white;
+}
+
+.NavigationBar {
+  display: flex;
+}
+
+.ReactIcon {
+  height: 60px;
+}
+
+.NavigationBar > h3 {
+  color: #7acce7;
+}
+
+.H4-dark {
+  color: white;
+}
+
+.H4-light {
+  color: #1f1d26;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+}
+
+.article1 {
+  padding: 10px;
+  background-color: #24262e;
+  background-image: url(./Frame\ 1.svg);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
+}
+.article2 {
+  padding: 10px;
+  background-color: white;
+  background-image: url(./Frame\ 1.svg);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
+}
+article > h1 {
+  padding: 20px;
+  font-size: 40px;
+}
+
+.h1--dark {
+  color: white;
+}
+
+.h1--light {
+  color: #1f1d26;
+}
+
+li {
+  color: #61dbfb;
+  padding-bottom: 10px;
+}
+
+.span1 {
+  color: white;
+  letter-spacing: -0.05em;
+}
+
+.span2 {
+  color: black;
+  letter-spacing: -0.05em;
+}
